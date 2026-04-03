@@ -1,0 +1,383 @@
+{
+ "43.1.1": {
+  "book": "43",
+  "chapter": "1",
+  "verse": "1",
+  "tokens": [
+   {
+    "word": "Ἐν",
+    "lemma": "ἐν",
+    "morph": "PREP",
+    "strong": "G1722",
+    "translit": "en",
+    "gloss": "in/on/among",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἀρχῇ",
+    "lemma": "ἀρχή",
+    "morph": "N-DSF",
+    "strong": "G746",
+    "translit": "archē",
+    "gloss": "beginning",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἦν",
+    "lemma": "εἰμί",
+    "morph": "V-IAI-3S",
+    "strong": "G1510",
+    "translit": "ēn",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ὁ",
+    "lemma": "ὁ",
+    "morph": "T-NSM",
+    "strong": "G3588",
+    "translit": "ho",
+    "gloss": "the/this/who",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Λόγος",
+    "lemma": "λόγος",
+    "morph": "N-NSM",
+    "strong": "G3056",
+    "translit": "logos",
+    "gloss": "word",
+    "pm_pre": "",
+    "pm_post": ","
+   },
+   {
+    "word": "καὶ",
+    "lemma": "καί",
+    "morph": "CONJ",
+    "strong": "G2532",
+    "translit": "kai",
+    "gloss": "and",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ὁ",
+    "lemma": "ὁ",
+    "morph": "T-NSM",
+    "strong": "G3588",
+    "translit": "ho",
+    "gloss": "the/this/who",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Λόγος",
+    "lemma": "λόγος",
+    "morph": "N-NSM",
+    "strong": "G3056",
+    "translit": "logos",
+    "gloss": "word",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἦν",
+    "lemma": "εἰμί",
+    "morph": "V-IAI-3S",
+    "strong": "G1510",
+    "translit": "ēn",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "πρὸς",
+    "lemma": "πρός",
+    "morph": "PREP",
+    "strong": "G4314",
+    "translit": "pros",
+    "gloss": "to/with",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "τὸν",
+    "lemma": "ὁ",
+    "morph": "T-ASM",
+    "strong": "G3588",
+    "translit": "ton",
+    "gloss": "the/this/who",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Θεόν",
+    "lemma": "θεός",
+    "morph": "N-ASM",
+    "strong": "G2316",
+    "translit": "theon",
+    "gloss": "God",
+    "pm_pre": "",
+    "pm_post": ","
+   },
+   {
+    "word": "καὶ",
+    "lemma": "καί",
+    "morph": "CONJ",
+    "strong": "G2532",
+    "translit": "kai",
+    "gloss": "and",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Θεὸς",
+    "lemma": "θεός",
+    "morph": "N-NSM",
+    "strong": "G2316",
+    "translit": "theos",
+    "gloss": "God",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἦν",
+    "lemma": "εἰμί",
+    "morph": "V-IAI-3S",
+    "strong": "G1510",
+    "translit": "ēn",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ὁ",
+    "lemma": "ὁ",
+    "morph": "T-NSM",
+    "strong": "G3588",
+    "translit": "ho",
+    "gloss": "the/this/who",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Λόγος",
+    "lemma": "λόγος",
+    "morph": "N-NSM",
+    "strong": "G3056",
+    "translit": "logos",
+    "gloss": "word",
+    "pm_pre": "",
+    "pm_post": "."
+   }
+  ]
+ },
+ "43.1.2": {
+  "book": "43",
+  "chapter": "1",
+  "verse": "2",
+  "tokens": [
+   {
+    "word": "Οὗτος",
+    "lemma": "οὗτος",
+    "morph": "D-NSM",
+    "strong": "G3778",
+    "translit": "houtos",
+    "gloss": "this/he/she/it",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἦν",
+    "lemma": "εἰμί",
+    "morph": "V-IAI-3S",
+    "strong": "G1510",
+    "translit": "ēn",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἐν",
+    "lemma": "ἐν",
+    "morph": "PREP",
+    "strong": "G1722",
+    "translit": "en",
+    "gloss": "in/on/among",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἀρχῇ",
+    "lemma": "ἀρχή",
+    "morph": "N-DSF",
+    "strong": "G746",
+    "translit": "archē",
+    "gloss": "beginning",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "πρὸς",
+    "lemma": "πρός",
+    "morph": "PREP",
+    "strong": "G4314",
+    "translit": "pros",
+    "gloss": "to/with",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "τὸν",
+    "lemma": "ὁ",
+    "morph": "T-ASM",
+    "strong": "G3588",
+    "translit": "ton",
+    "gloss": "the/this/who",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "Θεόν",
+    "lemma": "θεός",
+    "morph": "N-ASM",
+    "strong": "G2316",
+    "translit": "theon",
+    "gloss": "God",
+    "pm_pre": "",
+    "pm_post": "."
+   }
+  ]
+ },
+ "43.1.3": {
+  "book": "43",
+  "chapter": "1",
+  "verse": "3",
+  "tokens": [
+   {
+    "word": "πάντα",
+    "lemma": "πᾶς",
+    "morph": "A-NPN",
+    "strong": "G3956",
+    "translit": "panta",
+    "gloss": "all",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "δι᾽",
+    "lemma": "διά",
+    "morph": "PREP",
+    "strong": "G1223",
+    "translit": "di",
+    "gloss": "through/because of",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "αὐτοῦ",
+    "lemma": "αὐτός",
+    "morph": "P-GSM",
+    "strong": "G846",
+    "translit": "autou",
+    "gloss": "he/she/it/self",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἐγένετο",
+    "lemma": "γίνομαι",
+    "morph": "V-2ADI-3S",
+    "strong": "G1096",
+    "translit": "egeneto",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ","
+   },
+   {
+    "word": "καὶ",
+    "lemma": "καί",
+    "morph": "CONJ",
+    "strong": "G2532",
+    "translit": "kai",
+    "gloss": "and",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "χωρὶς",
+    "lemma": "χωρίς",
+    "morph": "PREP",
+    "strong": "G5565",
+    "translit": "chōris",
+    "gloss": "without",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "αὐτοῦ",
+    "lemma": "αὐτός",
+    "morph": "P-GSM",
+    "strong": "G846",
+    "translit": "autou",
+    "gloss": "he/she/it/self",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἐγένετο",
+    "lemma": "γίνομαι",
+    "morph": "V-2ADI-3S",
+    "strong": "G1096",
+    "translit": "egeneto",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "οὐδὲ",
+    "lemma": "οὐδέ",
+    "morph": "CONJ-N",
+    "strong": "G3761",
+    "translit": "oude",
+    "gloss": "and not",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "ἕν",
+    "lemma": "εἷς",
+    "morph": "A-NSN",
+    "strong": "G1520",
+    "translit": "hen",
+    "gloss": "one",
+    "pm_pre": "",
+    "pm_post": "."
+   },
+   {
+    "word": "ὃ",
+    "lemma": "ὅς, ἥ",
+    "morph": "R-NSN",
+    "strong": "G3739",
+    "translit": "ho",
+    "gloss": "which",
+    "pm_pre": "",
+    "pm_post": ""
+   },
+   {
+    "word": "γέγονεν",
+    "lemma": "γίνομαι",
+    "morph": "V-2RAI-3S",
+    "strong": "G1096",
+    "translit": "gegonen",
+    "gloss": "to be",
+    "pm_pre": "",
+    "pm_post": ""
+   }
+  ]
+ }
+}
