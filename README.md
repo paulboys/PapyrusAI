@@ -10,6 +10,10 @@ Translating the Greek New Testament using local LLMs on consumer hardware — no
 
 See [docs/quickstart.md](docs/quickstart.md) for setup and usage instructions.
 
+## Results
+
+See [RESULTS.md](RESULTS.md) for a detailed head-to-head evaluation of `qwen2.5` vs `llama3.2` on Jude 1:12–13, including bidirectional scoring and memorization analysis.
+
 ## Requirements
 
 - Python 3.10+
