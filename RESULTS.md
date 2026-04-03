@@ -60,6 +60,16 @@ The qwen2.5 T3 exact (13.3%) slightly exceeding T2 exact (9.6%) is explained by 
 
 The classical memorization signature is: **strong forward, weak reverse** — the model has memorized translations but cannot reconstruct Greek forms.
 
+### Why Different Metrics?
+
+The forward and reverse evaluations use different metrics because they measure fundamentally different tasks:
+
+- **Forward (Unigram BLEU):** The output is free-form English prose. There is no single "correct" translation — legitimate renderings vary widely in word choice and structure. BLEU unigram precision measures what fraction of the model's English words appear in the reference. Higher n-grams (bigram, 4-gram) collapse to zero when comparing stylistically different but semantically equivalent translations, so unigram is the most informative sub-score.
+
+- **Reverse (Acc-Strip):** The output is specific inflected Greek words. There *is* a single correct answer for each token — e.g., the dative plural feminine of ἀγάπη is ἀγάπαις, period. Exact token matching is the appropriate metric. "Acc-strip" (accent-stripped match) is the relaxed variant that ignores diacritical marks, because a model that produces `αγαπαις` instead of `ἀγάπαις` clearly knows the form even if it drops a breathing mark.
+
+The comparison in the table below (40.5% vs 38.6%) is admittedly apples-to-oranges in absolute magnitude, but the *relative pattern* is what matters: is forward >> reverse (memorization signal) or are they balanced (genuine comprehension)?
+
 | Model | Forward (Unigram BLEU) | Reverse T1 (Acc-Strip) | Asymmetry |
 |-------|----------------------|----------------------|-----------|
 | qwen2.5 | 40.5% | 38.6% | Moderate — forward slightly better |
