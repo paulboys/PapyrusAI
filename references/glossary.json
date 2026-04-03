@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "description": "Preferred English renderings for high-frequency Greek lemmas. Consult this glossary for consistency across translations. Update when introducing new preferred renderings.",
+    "format": "lemma → { rendering, note }"
+  },
+  "θεός": { "rendering": "God", "note": "Capitalize when referring to the God of Israel; lowercase for generic 'a god' in context." },
+  "κύριος": { "rendering": "Lord", "note": "Can also mean 'sir' or 'master' in non-theological contexts." },
+  "Ἰησοῦς": { "rendering": "Jesus", "note": "Standard English form. Same Greek name as OT Joshua." },
+  "Χριστός": { "rendering": "Christ", "note": "Literally 'Anointed One'. Use 'Christ' as standard; 'Messiah' in explicitly Jewish-context discussions." },
+  "πνεῦμα": { "rendering": "spirit", "note": "Capitalize as 'Spirit' when referring to the Holy Spirit; lowercase otherwise (wind, breath, human spirit)." },
+  "πίστις": { "rendering": "faith", "note": "Can also mean 'faithfulness' or 'trust' depending on context." },
+  "δικαιοσύνη": { "rendering": "righteousness", "note": "Some contexts warrant 'justice'. Note the connection to δίκαιος." },
+  "ἁμαρτία": { "rendering": "sin", "note": "Literally 'missing the mark'." },
+  "χάρις": { "rendering": "grace", "note": "Can also mean 'favor' or 'gratitude'." },
+  "ἀγάπη": { "rendering": "love", "note": "Distinct from φιλία (friendship-love) and ἔρως (romantic love)." },
+  "λόγος": { "rendering": "word", "note": "In John 1, capitalize as 'Word' (theological title). Otherwise 'word', 'message', 'reason'." },
+  "σάρξ": { "rendering": "flesh", "note": "Can mean physical body, human nature, or sinful nature depending on context." },
+  "ἐκκλησία": { "rendering": "church", "note": "Literally 'assembly' or 'congregation'. Use 'church' for NT ecclesial communities." },
+  "βασιλεία": { "rendering": "kingdom", "note": "Often in 'kingdom of God/heaven'." },
+  "εὐαγγέλιον": { "rendering": "gospel", "note": "Literally 'good news'." },
+  "ἀπόστολος": { "rendering": "apostle", "note": "Literally 'one sent'. Use 'apostle' for the Twelve and Paul; 'messenger' in generic contexts." },
+  "νόμος": { "rendering": "law", "note": "Capitalize as 'Law' when referring to the Mosaic Law/Torah." },
+  "σωτηρία": { "rendering": "salvation", "note": "Can also mean 'deliverance' or 'safety' in non-theological contexts." }
+}
