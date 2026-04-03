@@ -1,5 +1,9 @@
 # PapyrusAI
 
+<p align="center">
+  <img src="logo.png" alt="PapyrusAI Logo" width="300">
+</p>
+
 Translating the Greek New Testament using local LLMs on consumer hardware — no cloud APIs, no GPU required. Built on OpenGNT (Open Greek New Testament). Features automated BLEU scoring, bidirectional evaluation (Greek→English + English→Greek reverse testing to detect memorization vs. true comprehension), lexicon injection (RAG), and few-shot prompting.
 
 ## Quick Start
